@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 1" tvg-logo="http://example.com/logo.png" group-title="Indonesia",Padang TV
 https://video-weaver.jkt01.hls.ttvnw.net/v1/playlist/CpgFxmi0A6V2P3ZdrRbVC-RcT-tEC3P-eVUukp06Sz9b8-D0Is8_VPBUVsi6pBj2HcPHb0vNDnRIPXNN0nbh7Q-vAFYsc_P1FjHJp-s5vVPlvDbcyAbXJOmT7N3DOTdjaJsX7xseQSl2LNrc3TFnDzv1MvmTc0SlotFu1fiZBP0FU0AjER_tOqJDSpwZorkUyqY-bx65wbYYzu9alp6V_bxlFbPjqqXE1KdgjHAeG6slMdepiCZtPmJydediBXAkKVPTBwYytXc431XF0PPhQ-D_bKsZL8U3O-ZbWLl6PIBn-C243urwTswrZshOEPYWmOPr6_ipMLxez8GbD4dHkmICyLzb0qp5go6_BxwQOCxPy0-VVydNEECaFvHCR2xMY4Ult4utM2yLiab48Vl2iL2xn1egj1a21MbbZvH3KHvU16_rKMDny_CIy_KMTRpOfZtMmQhZMSEkOJlqP7IR6kZzQa0e8UL6FBjUKLIFKnyv9CGI0gFVvgvHGsb1zaRYbY5HFhq6yq3BBYcWcLLJ5cJ2HY4-dOLlfWXEVwEIG0JCh0yeMjhS5bqFwNflVPi9pLHCjvq0oekxu7sggqZtKPOVd97eWGpOtCZzaSM2KjYTbYn5AUd-pSThVPt5U8NythWu8A5MQJyseRW0jqptx-tY0vyFjqUfqdyOzG5Cku2hWFVCTZkoZdSLDfMnV8WP6EZfQRR41qEw4JY13rptwYhppud9oE0-78EWtkQZ6MBAdFkuCqvfIZG_Oz8kow_bsSVsYn1JMkdb9Hi70PscCI6H2qRkDYODnfqnuTxMJMxBbgP4Xwks1GFr9fLgwgdkz7r5ByKbiFywLK-gVEsG4ffNBNnCiapyEjYDAz7zEKvn3w6AaV0lfzpAvBoMQOTdNCKT8mDITk5mIAEqCXVzLXdlc3QtMjDVBQ.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="http://example.com/logo.png" group-title="Indonesia",Champions TV 1 HD
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/LsStHpfv/Champions-TV-5.png" group-title="Indonesia",Champions TV 1 HD
 http://103.167.167.5:8111/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="http://example.com/logo.png" group-title="Sport",Real Madrid TV
