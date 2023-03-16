@@ -11,7 +11,7 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv&?|referer=https://www.rctiplus
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/9McN7hcq/RCTI-ORANGE.png" group-title="Indonesia",RCTI
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&?|referer=https://www.rctiplus.com/
 
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/9McN7hcq/RCTI-ORANGE.png" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/9McN7hcq/RCTI-ORANGE.png" group-title="Indonesia",RCTI+
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&?|referer=https://www.rctiplus.com/
 
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/SRpptKSd/TVONE-ORANGE.png" group-title="Indonesia",TvOne
@@ -31,6 +31,7 @@ https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f
 
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/LsStHpfv/Champions-TV-5.png" group-title="Indonesia",Champions TV 5
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd?drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv5key.html
+
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/HkHLBXTr/champions-tv-6.png" group-title="Indonesia",Champions TV 6
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd?drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv6key.html
 
