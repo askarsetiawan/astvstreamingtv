@@ -35,7 +35,7 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd?drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv6key.html
 
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 1
-https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd?drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc1key.html
+https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd|drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc1key.html
 
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 2
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd?drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc2key.html
