@@ -11,7 +11,7 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv&?|referer=https://www.rctiplus
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/9McN7hcq/RCTI-ORANGE.png" group-title="Indonesia",RCTI
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&?|referer=https://www.rctiplus.com/
 
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/9McN7hcq/RCTI-ORANGE.png" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/9McN7hcq/RCTI-ORANGE.png" group-title="Indonesia",RCTI+
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&?|referer=https://www.rctiplus.com/
 
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/SRpptKSd/TVONE-ORANGE.png" group-title="Indonesia",TvOne
