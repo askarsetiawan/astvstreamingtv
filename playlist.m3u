@@ -20,7 +20,7 @@ https://mooncang.my.id/api/vidio/ch.m3u8?id=783&code=tvone?|user_agent=OTT Navig
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/SRpptKSd/TVONE-ORANGE.png" group-title="Indonesia",Dunia Games
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv1key.html
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/vHdMsncb/champions-tv-1.png" group-title="Indonesia",Champions TV 1
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
@@ -40,7 +40,7 @@ https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 1
 http://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd
 
-#EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 2
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 23
 http://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd?drmScheme=clearkey&drmLicense=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc2key.html
 
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="United Kingdom",Viaplay Sports
