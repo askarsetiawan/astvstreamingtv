@@ -198,3 +198,9 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/CxHDd2Y7/TRANS-7-ORANGE.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/jjmNX7S2/ANTV-ORANGE.png",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/mkvBpTFQ/NET-TV-ORANGE.png",NET. TV
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
