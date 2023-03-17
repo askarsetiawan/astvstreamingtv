@@ -177,3 +177,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/Qm5jsdg/Soccer-Channel.png",MNC Soccer Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/L4k7T9H3/METRO-TV-ORANGE.png",Metro TV
+https://mooncang.my.id/api/vidio/ch.m3u8?id=777&code=metro-tv
