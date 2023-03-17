@@ -204,3 +204,23 @@ http://rr2.dens.tv/s/s07/index.m3u8
 
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/mkvBpTFQ/NET-TV-ORANGE.png",NET. TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/SxtYc1Xk/i-News-TV-Orange.png",iNews TV
+https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&?|referer=https://www.rctiplus.com/
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/SxtYc1Xk/i-News-TV-Orange.png",iNews TV+
+https://mooncang.my.id/api/rplus/ch.m3u8?id=inews&?|referer=https://www.rctiplus.com/
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/PrF2cKKr/KOMPAS-TV-ORANGE.png",Kompas TV
+https://video.jixie.media/live-test/kompastv.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/QN2JgSq/RTV-ORANGE.png",RTV
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/qxbCwQw/CNN-INDONESIA-ORANGE.png",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/RZmfFHPx/JTV.png",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1361670428.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/W31hZmZx/Garuda-TV.png",Garuda TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
