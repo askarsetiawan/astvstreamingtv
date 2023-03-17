@@ -1,3 +1,5 @@
+========== INDONESIA ==========
+
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Channel 1" tvg-logo="https://i.postimg.cc/nhBWyNNP/INDOSIAR-ORANGE-PUTIH-1.png" group-title="Indonesia",Indosiar
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8? Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
@@ -60,10 +62,20 @@ https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true#zLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-14  group-title="KIDS TV" tvg-logo="https://dl.dropbox.com/s/by2uuzoswu35a8u/jpg",M KIDZ
+#EXTINF:-14  group-title="Indonesia" tvg-logo="https://dl.dropbox.com/s/by2uuzoswu35a8u/jpg",M KIDZ
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1  group-title="KIDS TV" tvg-logo="https://dl.dropbox.com/s/0wblnxm5491tl8y/jpg",KIDS TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://dl.dropbox.com/s/0wblnxm5491tl8y/jpg",KIDS TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid1key.html
+#EXTINF:-1  group-title="Indonesia" tvg-logo=" https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 1 Indonesia
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid2key.html
+#EXTINF:-1  group-title="Indonesia" tvg-logo=" https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
