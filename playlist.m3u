@@ -62,7 +62,7 @@ https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true#zLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-14  group-title="Indonesia" tvg-logo="https://dl.dropbox.com/s/by2uuzoswu35a8u/jpg",M KIDZ
+#EXTINF:-14  group-title="Indonesia" tvg-logo="https://i.postimg.cc/Bv679vc4/My-Kidz.png",M KIDZ
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
