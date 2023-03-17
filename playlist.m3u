@@ -28,8 +28,18 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv1key.html
+#EXTINF:-6 tvg-id="6" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/vHdMsncb/champions-tv-1.png" group-title="Sports",Champions TV 1
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv2key.html
 #EXTINF:-7 tvg-id="7" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/pV61HMrv/champions-tv-2.png" group-title="Indonesia",Champions TV 2
+https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv2key.html
+#EXTINF:-7 tvg-id="7" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/pV61HMrv/champions-tv-2.png" group-title="Sports",Champions TV 2
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,8 +48,18 @@ https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv3key.html
+#EXTINF:-8 tvg-id="8" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/Pq55kHph/champions-tv-3.png" group-title="Sports",Champions TV 3
+https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv5key.html
 #EXTINF:-9 tvg-id="9" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/LsStHpfv/Champions-TV-5.png" group-title="Indonesia",Champions TV 5
+https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv5key.html
+#EXTINF:-9 tvg-id="9" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/LsStHpfv/Champions-TV-5.png" group-title="Sports",Champions TV 5
 https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e1a7097ddb8b5/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -48,8 +68,18 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctv6key.html
+#EXTINF:-10 tvg-id="10" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/HkHLBXTr/champions-tv-6.png" group-title="Sports",Champions TV 6
+https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc1key.html
 #EXTINF:-11 tvg-id="11" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 1
+https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc1key.html
+#EXTINF:-11 tvg-id="11" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Sports",Champions TV World Cup 1
 https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81463429b73288a0/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,7 +87,15 @@ https://prod-drm-vidio-com-ctv-worldcup1.akamaized.net/out/v1/39d65abedd7c448c81
 #EXTINF:-12 tvg-id="12" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Indonesia",Champions TV World Cup 2
 https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptif.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/ctvwc2key.html
+#EXTINF:-12 tvg-id="12" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/ryZN57XF/Champions-TV-World-Cup.png" group-title="Sports",Champions TV World Cup 2
+https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa97b2c3a8b934114/index.mpd
+
 #EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="United Kingdom",Viaplay Sports
+https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
+
+#EXTINF:-13 tvg-id="1" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/q7WfVpyy/Viaplay-Sport.png" group-title="Sports",Viaplay Sports
 https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https://widevine.licenses4.me/&user_agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -66,8 +104,18 @@ https://no2.onlinewebtv.lol/ddy1/premium550/tracks-v1a1/mono.m3u8?|referer=https
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true#zLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-14  group-title="Anak" tvg-logo="https://i.postimg.cc/Bv679vc4/My-Kidz.png",My Kidz
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189-453d-80a4-536de660a8b5)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/FKC011w9/Kids-TV.png",Kids TV
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1  group-title="Anak" tvg-logo="https://i.postimg.cc/FKC011w9/Kids-TV.png",Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,8 +124,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid1key.html
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 1 Indonesia
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid2key.html
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid2key.html
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
 https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -87,7 +145,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 2
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -97,5 +165,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.postimg.cc/wMHVMyQn/mnc-sports.png",MNC Sports 3
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.ibb.co/Qm5jsdg/Soccer-Channel.png",MNC Soccer Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:-1  group-title="Sports" tvg-logo="https://i.ibb.co/Qm5jsdg/Soccer-Channel.png",MNC Soccer Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
