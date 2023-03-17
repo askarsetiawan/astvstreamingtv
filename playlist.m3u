@@ -72,10 +72,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid1key.html
-#EXTINF:-1  group-title="Indonesia" tvg-logo=" https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 1 Indonesia
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 1 Indonesia
 https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid2key.html
-#EXTINF:-1  group-title="Indonesia" tvg-logo=" https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
 https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
