@@ -225,6 +225,5 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w1361670428.m3u8
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/W31hZmZx/Garuda-TV.png",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
-#EXTINF:-1  group-title="Indonesia" tvg-logo="http://210.210.155.35/qwr9ew/s/s13/index.m3u8",DAAI TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
-
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/qqK8zfW1/DAAI-TV.png",DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
