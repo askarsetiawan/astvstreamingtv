@@ -67,7 +67,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2661c086-4189
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1  group-title="Indonesia" tvg-logo="https://dl.dropbox.com/s/0wblnxm5491tl8y/jpg",Kids TV
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://dl.dropbox.com/s/0wblnxm5491tl8y/jpg",KIDS TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,5 +77,10 @@ https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://lsbtv.livestreaming.repl.co/pemutar/nsplayer/beinid2key.html
+#EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1  group-title="Indonesia" tvg-logo="https://i.postimg.cc/cH2kCd4m/be-IN-Sports-Malaysia.png",beIN Sports 3 Indonesia
 https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
