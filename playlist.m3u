@@ -17,7 +17,7 @@ https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&?|referer=https://www.rctiplus.
 https://mooncang.my.id/api/rplus/ch.m3u8?id=rcti&?|referer=https://www.rctiplus.com/
 
 #EXTINF:-4 tvg-id="4" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/SRpptKSd/TVONE-ORANGE.png" group-title="Indonesia",TvOne
-https://mooncang.my.id/api/vidio/ch.m3u8?id=783&code=tvone?|user_agent=OTT Navigator/1.6.8.3 (Linux;Android 7.1.2; 14or6pi)
+https://mooncang.my.id/api/vidio/ch.m3u8?id=783&code=tvone
 
 #EXTINF:-5 tvg-id="5" tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/c1QZjPKH/Dunia-Games.png" group-title="Indonesia",Dunia Games
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
